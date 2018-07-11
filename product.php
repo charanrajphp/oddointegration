@@ -1,6 +1,7 @@
 <?php
 //author charan
 //this is not for commerical use. for knowledge sharing i am sharing, don't use for commrical purpose will take charge on this
+//weare using ripcordlibrary suggested by odoo to php integration
 //in order to run this sciprt first import category and sub_category .. base on that we can import
 // For Develope environment enable this following two lines to debud
 error_reporting(E_ALL);
